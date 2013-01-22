@@ -59,8 +59,7 @@ fi
 	done
 	args=$(ls * |sort -n|xargs echo)
 	pdftk $args cat output $today.pdf
-	mkdir temp
-	mv $args temp/
+	mv $today.pdf ../$today.pdf
 
 
 else    
