@@ -1,6 +1,9 @@
 ====DailyPaper
 These are the scripts﻿ to automate the download of Indian newspapers everyday.
 
+Indian Express  IE
+Times of India	TOI
+Hindustan Times	HT
 
 ==Optional requirement ->
 
