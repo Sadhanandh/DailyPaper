@@ -1,6 +1,31 @@
 #!/bin/bash
 #		
 #
+#				Indian Express (IE) Pdf downloader
+#	
+#	Attention !!! : Please read through and consider subscribing to their digital-edition (e-edition)
+#
+#	This is only for the needy and poor!
+#	Please consider subscribing to their e-edition. 
+#	The e-editions are more suitable for viewing in
+#		Tablets and mobiles.
+# 	E-editions are available in lighter and navigable formats.
+#	Moreover the e-editions are really inexpensive.
+#	A months subscription is lesser than a cup of coffee !!
+#	
+#	Good Journalism takes lots of effort and promote them by subscribing to
+#		the e-edition.
+#   (Try Reading -> "The Millenium Triology" to understand the journalist's toil. )
+#
+#	Democracy is sutained by journalism and by subscribing to e-editions 
+#		you are directly helping in promoting and sustaining democracy
+#
+#		so follow the link below to subscribe e-editions
+#	http://www.indianexpress.com/subsForm/ie.html
+#
+
+
+#
 #		Indian Express (IE) Daily downloader
 #
 #		Add this to your cron job as a daily script and this does its job
